@@ -1,10 +1,11 @@
 {
-  "merkleRoot": "670b0163fa5a3531d2c572ffb469500177749a8c727a37fd3b6017e040a8cc5f",
-  "snapshotDate": "2026-04-16T10:44:32.606Z",
-  "period": "2026-04",
-  "entityIdentifier": "cmo0a218z00a8sa01gxw4sjvz",
+  "schemaVersion": "1.0.0",
+  "entityId": "cmo0a218z00a8sa01gxw4sjvz",
   "entityName": "Meridian Digital Assets Limited",
-  "coverageRatio": 1.3468,
+  "period": "2026-04",
+  "snapshotDate": "2026-04-16T11:42:54.779Z",
+  "merkleRoot": "829ab08d90557451abe2d36b6d763ceb295380b33160ab3452df40ad049c1d6e",
+  "totalUserCount": 61,
   "totalAssets": [
     {
       "asset": "BTC",
@@ -49,10 +50,16 @@
       "fairValue": 380000
     }
   ],
+  "coverageRatio": "1.3468",
+  "previousAttestationHash": "6c38828f2836c8626c83260bd75e6fe985fae77e106ac5435b16707fa5c9f8c9",
+  "publishedAt": "2026-04-16T11:42:55.243Z",
+  "snapshotDataHash": "d2ee7d907ae22274ee46034d23159069d2dbb83916bc3f4e41dac1a7f24ae4f3",
+  "signature": {
+    "algorithm": "HMAC-SHA256",
+    "value": "ac3971f8182ec7c7e2575f56f5760a29f8ad6885316735c427f6368b29f48c7d",
+    "canonicalization": "JSON (lexicographic key order)",
+    "verifyEndpoint": "https://www.autonumy.com/api/v1/proof-of-reserves/verify/cmo1eu69p007jp60170pu5hl3"
+  },
   "userCount": 61,
-  "snapshotDataHash": "6c38828f2836c8626c83260bd75e6fe985fae77e106ac5435b16707fa5c9f8c9",
-  "previousAttestationHash": "77b4a56e789bf0e56f95a4e73f801649eb7090a74c71b2f68dd5c2ab4f87e177",
-  "publishedAt": "2026-04-16T10:46:41.163Z",
-  "publishMethod": "GIT",
-  "schemaVersion": "1.0.0"
+  "publishMethod": "GIT"
 }
