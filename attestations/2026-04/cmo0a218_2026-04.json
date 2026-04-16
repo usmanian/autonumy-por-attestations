@@ -1,6 +1,6 @@
 {
-  "merkleRoot": "fa96512974b4a9dc13481bab5370063575332ab588c4864de2df24673e9bf958",
-  "snapshotDate": "2026-04-15T22:45:19.529Z",
+  "merkleRoot": "898e8b03e6d5e54c6a87a11b256d2a463655e01e0d6bc00bc4c2d084e4b3d6fe",
+  "snapshotDate": "2026-04-16T10:41:06.868Z",
   "period": "2026-04",
   "entityIdentifier": "cmo0a218z00a8sa01gxw4sjvz",
   "entityName": "Meridian Digital Assets Limited",
@@ -50,9 +50,9 @@
     }
   ],
   "userCount": 61,
-  "snapshotDataHash": "fd87b348e1440292a51880a418b04442c88c32e73e16cd637eeac7fbc2b0a7f9",
-  "previousAttestationHash": null,
-  "publishedAt": "2026-04-15T22:45:30.824Z",
+  "snapshotDataHash": "880f97364eb3e0941c7c2f05e56499981736f589b1ebb81bfa3fe3beb50ba082",
+  "previousAttestationHash": "fd87b348e1440292a51880a418b04442c88c32e73e16cd637eeac7fbc2b0a7f9",
+  "publishedAt": "2026-04-16T10:42:21.489Z",
   "publishMethod": "GIT",
   "schemaVersion": "1.0.0"
 }
