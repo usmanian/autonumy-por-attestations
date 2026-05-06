@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "entityId": "cmosb5wxb00jijq5zv7jcna6c",
+  "entityName": "Helios Exchange Limited",
+  "period": "2026-05",
+  "snapshotDate": "2026-05-06T15:40:29.844Z",
+  "merkleRoot": "a2bc52bdc8682735bb0683b1522539732934f4594e4e34f9ada849480c0cad49",
+  "totalUserCount": 50,
+  "totalAssets": [
+    {
+      "asset": "BTC",
+      "quantity": 51,
+      "fairValue": 2550000
+    },
+    {
+      "asset": "ETH",
+      "quantity": 1020,
+      "fairValue": 2550000
+    },
+    {
+      "asset": "SOL",
+      "quantity": 8500,
+      "fairValue": 850000
+    },
+    {
+      "asset": "USDC",
+      "quantity": 2550000,
+      "fairValue": 2014500
+    }
+  ],
+  "totalLiabilities": [
+    {
+      "asset": "BTC",
+      "quantity": 60,
+      "fairValue": 3000000
+    },
+    {
+      "asset": "ETH",
+      "quantity": 1200,
+      "fairValue": 3000000
+    },
+    {
+      "asset": "USDC",
+      "quantity": 3000000,
+      "fairValue": 2370000
+    },
+    {
+      "asset": "SOL",
+      "quantity": 10000,
+      "fairValue": 1000000
+    }
+  ],
+  "coverageRatio": "0.85",
+  "previousAttestationHash": "b13003da2a531f317bf6b435a73b759aaef6de089ed1cfe86afbc688f8dbbfa5",
+  "publishedAt": "2026-05-06T15:42:40.152Z",
+  "snapshotDataHash": "29929c4d52411f7255f0a39db00d66302268baf18a06dffc1fcd40d74d088636",
+  "signature": {
+    "algorithm": "HMAC-SHA256",
+    "value": "436f332c1727191155b7edfa1c482e8baab63bddd1dff152ee69470aab5a8df3",
+    "canonicalization": "JSON (lexicographic key order)",
+    "verifyEndpoint": "http://localhost:3002/api/v1/proof-of-reserves/verify/cmou84qvp007cjq1wqtk9krem"
+  },
+  "userCount": 50,
+  "publishMethod": "GIT"
+}
