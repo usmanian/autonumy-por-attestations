@@ -3,8 +3,8 @@
   "entityId": "cmosb5wxb00jijq5zv7jcna6c",
   "entityName": "Helios Exchange Limited",
   "period": "2026-05",
-  "snapshotDate": "2026-05-06T15:48:28.940Z",
-  "merkleRoot": "78ee356280842b9730908a2617a499545eb44a8519d3b51025d460fb4eb74b8d",
+  "snapshotDate": "2026-05-06T18:04:58.130Z",
+  "merkleRoot": "00df2ee93c35180cbf68c9e97b9a6d2d06c8c407613fcac0dc986564be2bf4ff",
   "totalUserCount": 50,
   "totalAssets": [
     {
@@ -51,14 +51,14 @@
     }
   ],
   "coverageRatio": "0.85",
-  "previousAttestationHash": "af09a8d90c4595960ab8b6a652a1434758cbd661ae3ab98794e2932df468b4b4",
-  "publishedAt": "2026-05-06T15:48:35.990Z",
-  "snapshotDataHash": "cf684901663f5e3a6a7bad7119252032fa8ef4f44a09ee30d31bb5a854f2717b",
+  "previousAttestationHash": "cf684901663f5e3a6a7bad7119252032fa8ef4f44a09ee30d31bb5a854f2717b",
+  "publishedAt": "2026-05-06T18:05:02.757Z",
+  "snapshotDataHash": "4992b9c661ded65f9b29e4fe5f2d474bd6bf21c05b9384faf38b485e34576096",
   "signature": {
     "algorithm": "HMAC-SHA256",
-    "value": "bf14a926fb2cd127145a308143865d07146a635e3c4ae3e54a83ee9ea039725a",
+    "value": "a477c990f2b3ec90f8ef5bd2fd586a0d87bc574a5611765c6c84cea60eb1f02f",
     "canonicalization": "JSON (lexicographic key order)",
-    "verifyEndpoint": "http://localhost:3002/api/v1/proof-of-reserves/verify/cmou8f0jw007fjqrddm0t41zj"
+    "verifyEndpoint": "http://localhost:3002/api/v1/proof-of-reserves/verify/cmoudajde007gjq7k5n3v9p3q"
   },
   "userCount": 50,
   "publishMethod": "GIT"
